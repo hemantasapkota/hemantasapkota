@@ -1,6 +1,6 @@
 ### Hi, I am Hemanta 👋
 
-I'm a highly experienced and skilled React Native professional, with a deep understanding of responsive UI design, native module integration, deep linking, and the setup of unit and integration testing frameworks. I have a proven ability to architect mobile CI/CD pipelines and have successfully published apps to both the Apple and Google app stores. With a Masters of Information Technology from University of Technology Sydney (UTS), I'm a professional with a passion for technology and a desire to stay current with the latest industry trends.
+I'm a highly experienced and skilled [React Native](https://reactnative.dev) professional, with a deep understanding of responsive UI design, native module integration, deep linking, and the setup of unit and integration testing frameworks. I have a proven ability to architect mobile CI/CD pipelines and have successfully published apps to both the Apple and Google app stores. With a Masters of Information Technology from [University of Technology Sydney (UTS)](https://www.uts.edu.au/), I'm a professional with a passion for technology and a desire to stay current with the latest industry trends.
 
 Here are some of the projects i've built.
 
