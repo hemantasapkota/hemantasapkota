@@ -15,9 +15,3 @@ Download the app today!
 * Website - https://yolmo.com
 * IOS - https://apps.apple.com/us/app/yolmo-learn-to-code/id1452106609
 * Android - https://play.google.com/store/apps/details?id=com.yolmo.learntocode
-
-### SVG Playground - Free SVG diagram editor with a built-in code editor
-
-[SVG Playground](https://svgplayground.com) is an online tool for creating and editing SVG diagrams that comes with a code editor and offers features such as optimization, conversion to other formats, and direct code editing, making it useful for both designers and developers.
-
-<img width="1247" alt="Screen Shot 2022-08-20 at 12 10 46 am" src="https://user-images.githubusercontent.com/896157/185637582-5a913754-27d7-4740-9cb2-950e8a12e195.png">
