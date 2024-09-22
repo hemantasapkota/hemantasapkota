@@ -1,17 +1,23 @@
 ### Hi, I am Hemanta 👋
 
-I'm a highly experienced and skilled [React Native](https://reactnative.dev) professional, with a deep understanding of responsive UI design, native module integration, deep linking, and the setup of unit and integration testing frameworks. I have a proven ability to architect mobile CI/CD pipelines and have successfully published apps to both the Apple and Google app stores. With a Masters of Information Technology from [University of Technology Sydney (UTS)](https://www.uts.edu.au/), I'm a professional with a passion for technology and a desire to stay current with the latest industry trends.
+As a technology consultant with expertise in mobile application development, I've developed standout apps like Learn to code with Yolmo (4.6 stars, 5K+ US ratings) and Fit For Footy (4.8 stars, 1.8K+ Australian ratings). My work spans Fintech, Sports-tech, & Edtech, where I blend deep user insights with technical prowess to deliver exceptional, user-centric solutions. My portfolio evidences my ability to exceed user expectations and set new benchmarks in app usability and satisfaction.
 
 Here are some of the projects i've built.
 
-### Yolmo: Learn to Code
+### Learn to code with Yolmo®
 
 ![iPhone 5_](https://user-images.githubusercontent.com/896157/212445552-2350da28-0ee4-4506-8d1f-a3d09f415be7.png)
 
-Yolmo is a coding education platform featuring interactive programming playgrounds for learners of all ages. With Yolmo, you can learn coding in a fun and accessible way, no matter your age or experience level.
+Yolmo® is an interactive learning app that offers a fun and accessible way for people of all ages to learn coding. With our programming playgrounds, coding has never been more engaging and enjoyable. Download the app today!
 
-Download the app today!
+* [Website](https://yolmo.com)
+* [iOS App](https://apps.apple.com/us/app/yolmo-learn-to-code/id1452106609)
+* [Android app](https://play.google.com/store/apps/details?id=com.yolmo.learntocode)
 
-* Website - https://yolmo.com
-* IOS - https://apps.apple.com/us/app/yolmo-learn-to-code/id1452106609
-* Android - https://play.google.com/store/apps/details?id=com.yolmo.learntocode
+### J2ObjC Eclipse Plugin
+
+The J2ObjC Eclipse Plugin integrates Google's j2objc compiler into the Eclipse IDE. It enables you to generate Objective-C source code from existing Java projects directly within Eclipse. Additionally, most command-line parameters required by the j2objc compiler are configurable through the plugin's preferences.
+
+My contribution to the plugin has been recognized by Google's J2ObjC team. https://developers.google.com/j2objc/guides/eclipse-plugin
+
+![image](https://github.com/user-attachments/assets/2e66e90d-21e2-401b-b848-87688a5efe2a)
